@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Trevor Maxwell
 - 🏂 🎲 I’m interested in Snowboarding & Boardgames in my past time
-- 🌱 I’m currently learning KNIME and HEX for ETL and DB manipulation to Publish data apps
+- 🌱 Some of my Favorite tools are KNIME and HEX Notebooks for ETL and DB manipulation
 - 📧 Feel free to email me at trevor2maxwell@gmail.com
 - :computer: Portfolio page is here -> https://trevor2maxwell.github.io
 
