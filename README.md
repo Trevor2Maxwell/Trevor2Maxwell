@@ -28,3 +28,15 @@ You can click the Preview link to take a look at your changes.
 ![LangGraph](https://img.shields.io/badge/AI-LangGraph-blue?style=flat&labelColor=555555)
 
 ![Godot](https://img.shields.io/badge/GameDev-Godot-blue?style=flat&labelColor=555555)
+
+![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white) 
+
+![SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat&logo=sqlite&logoColor=white)  
+
+**Data & Visualization** 
+
+![Tableau](https://img.shields.io/badge/DataViz-Tableau-blue?style=flat&logo=tableau&logoColor=white)
+
+![Excel](https://img.shields.io/badge/DataViz-Excel-blue?style=flat&logo=microsoftexcel&logoColor=white) 
+
+![PowerBI](https://img.shields.io/badge/DataViz-PowerBI-green?style=flat&logo=powerbi&logoColor=white&labelColor=555555)
