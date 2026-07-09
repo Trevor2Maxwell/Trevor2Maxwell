@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 ![AI Agent Building](https://img.shields.io/badge/AI-Agent_Building-blue?style=flat&labelColor=555555)
 ![LangGraph](https://img.shields.io/badge/AI-LangGraph-blue?style=flat&labelColor=555555)
 
-![Godot](https://img.shields.io/badge/Dev-Game_Development-blue?style=flat&labelColor=555555)
+![Godot](https://img.shields.io/badge/GameDev-Godot-blue?style=flat&labelColor=555555)
