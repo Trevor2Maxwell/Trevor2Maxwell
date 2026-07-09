@@ -11,15 +11,21 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Skills and Tools:
+### Fav Tools:
 
-![Python](https://img.shields.io/badge/Code-Python-1abc9c?style=flat&logo=python&logoColor=white&labelColor=555555)
-![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-1abc9c?style=flat&logo=postgresql&logoColor=white&labelColor=555555)
-![HTML](https://img.shields.io/badge/Frontend-HTML-1abc9c?style=flat&logo=html5&logoColor=white&labelColor=555555)
-![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-1abc9c?style=flat&logo=bootstrap&logoColor=white&labelColor=555555)
-![Bash](https://img.shields.io/badge/Shell-Bash-1abc9c?style=flat&logo=gnu-bash&logoColor=white&labelColor=555555)
+![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white&labelColor=555555)
+![Plotly](https://img.shields.io/badge/DataViz-Plotly-blue?style=flat&logo=plotly&logoColor=white&labelColor=555555)
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white&labelColor=555555)
+![R](https://img.shields.io/badge/Code-R-blue?style=flat&logo=r&logoColor=white&labelColor=555555)
+![SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat&logo=sqlite&logoColor=white&labelColor=555555)
 
-![Supervised](https://img.shields.io/badge/MachineLearning-Supervised-1abc9c?style=flat&labelColor=555555)
-![PyTorch Lightning](https://img.shields.io/badge/DeepLearning-PyTorchLightning-1abc9c?style=flat&logo=pytorchlightning&logoColor=white&labelColor=555555)
-![HuggingFace](https://img.shields.io/badge/NLP-HuggingFace-1abc9c?style=flat&logo=huggingface&logoColor=white&labelColor=555555)
-![Plotly](https://img.shields.io/badge/DataViz-Plotly-1abc9c?style=flat&logo=plotly&logoColor=white&labelColor=555555)
+![Snowflake](https://img.shields.io/badge/Data-Snowflake-blue?style=flat&logo=snowflake&logoColor=white&labelColor=555555)
+![Tableau](https://img.shields.io/badge/DataViz-Tableau-blue?style=flat&logo=tableau&logoColor=white&labelColor=555555)
+![PowerBI](https://img.shields.io/badge/DataViz-PowerBI-blue?style=flat&logo=powerbi&logoColor=white&labelColor=555555)
+![Excel](https://img.shields.io/badge/DataViz-Excel-blue?style=flat&logo=microsoftexcel&logoColor=white&labelColor=555555)
+
+![AI Agent Building](https://img.shields.io/badge/AI-Agent_Building-blue?style=flat&labelColor=555555)
+![LangGraph](https://img.shields.io/badge/AI-LangGraph-blue?style=flat&labelColor=555555)
+
+![Game Development](https://img.shields.io/badge/Dev-Game_Development-blue?style=flat&labelColor=555555)
+
