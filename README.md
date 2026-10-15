@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Trevor Maxwell
-- 🏂 🎲 I’m interested in Snowboarding & Boardgames in my past time
-- 🌱 Some of my favorite tools right now are KNIME and HEX Notebooks for ETL and DB manipulation
-- 📧 Feel free to email me at trevor2maxwell@gmail.com
+- 🏂 🎲 🏸 I Snowboard play boardgames, PC games and any sport with a racket 
+- 🌱 Favorite tools right now are KNIME and HEX Notebooks for ETL and DB manipulation
+- 📧 Email is trevor2maxwell@gmail.com
 - :computer: Portfolio page is here -> https://trevor2maxwell.github.io
 
 <!---
