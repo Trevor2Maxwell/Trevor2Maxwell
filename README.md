@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Trevor Maxwell
 - 🏂 🎲 🏸 I Snowboard play boardgames, PC games and any sport with a racket 
-- 🌱 Currently learning KNIME Analytics platform and HEX Notebooks for ETL and DB manipulation
+- 🌱 Currently learning KNIME Analytics platform and HEX Notebooks for ETL and/or data manipulation
 - 📧 Email is trevor2maxwell@gmail.com
 - :computer: Portfolio page is here -> https://trevor2maxwell.github.io
 
