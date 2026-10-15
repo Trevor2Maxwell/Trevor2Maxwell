@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Fav Tools:
+### Toolbelt:
 
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white&labelColor=555555)
 ![Plotly](https://img.shields.io/badge/Lib-Plotly-blue?style=flat&logo=plotly&logoColor=white&labelColor=555555)
